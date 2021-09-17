@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="yy.inc.flutter_custom_dialog">
+  <application>
+    <meta-data android:name="flutter_custom_dialog" android:value="2" />
+  </application>
+</manifest>
